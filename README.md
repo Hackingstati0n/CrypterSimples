@@ -6,6 +6,8 @@ Este projeto em C é um criador de executáveis que realiza o download de um arq
 
 ![Captura de tela 2025-01-24 093851](https://github.com/user-attachments/assets/edfcc00c-28c4-48db-a598-474b24b07270)
 
+https://kleenscan.com/scan_result/2a2d437f8c898e6e08fd493b3bf542fdf57d4a1187838606133d3abfda35208c
+
 
 - **Baixar arquivo Base64**: Faz o download de um arquivo codificado em Base64 de uma URL fornecida.
 - **Decodificar Base64**: Decodifica o conteúdo do arquivo baixado.
